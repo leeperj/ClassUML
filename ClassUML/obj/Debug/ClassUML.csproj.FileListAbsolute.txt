@@ -1,0 +1,7 @@
+C:\Users\josep\source\repos\ClassUML\ClassUML\bin\Debug\ClassUML.exe.config
+C:\Users\josep\source\repos\ClassUML\ClassUML\bin\Debug\ClassUML.exe
+C:\Users\josep\source\repos\ClassUML\ClassUML\bin\Debug\ClassUML.pdb
+C:\Users\josep\source\repos\ClassUML\ClassUML\obj\Debug\ClassUML.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\ClassUML\ClassUML\obj\Debug\ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\ClassUML\ClassUML\obj\Debug\ClassUML.exe
+C:\Users\josep\source\repos\ClassUML\ClassUML\obj\Debug\ClassUML.pdb
